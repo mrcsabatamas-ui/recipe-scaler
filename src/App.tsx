@@ -1,4 +1,4 @@
-import RecipeScaler from "./RecipeScaler";
+import RecipeScaler from "./components/RecipeScaler";
 
 export default function App() {
   return (
