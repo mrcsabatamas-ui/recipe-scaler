@@ -136,7 +136,7 @@ export default function RecipeScaler() {
   return (
     <div className="min-w-[550px] mx-auto bg-white rounded-xl shadow-xl p-6 space-y-8">
 
-      <h2 className="text-3xl font-bold text-center text-blue-700">Recipe Scaler</h2>
+      <h2 className="text-3xl font-bold text-center text-gray-700">Recipe Scaler</h2>
 
       {/* Recept választó */}
       <div className="flex items-center gap-4">
